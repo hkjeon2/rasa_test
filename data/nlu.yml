@@ -85,6 +85,11 @@ nlu:
     - so saad
     - so sad
 
+- intent: information
+  examples: |
+    - what is your name?
+    - tell me your name
+
 - intent: bot_challenge
   examples: |
     - are you a bot?
