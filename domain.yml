@@ -53,13 +53,13 @@ responses:
       title: Contact Conference Host
     text: How can we help you?
   utter_chitchat/callforpaper:
-  - text: aaaa
+  - text: Thank you! Please click the following link. http://thereps.org/call-for-paper/
   utter_chitchat/registerconference:
-  - text: bbbbbbbbbbbbb
+  - text: Thank you! Please click the following link. http://thereps.org/registration/
   utter_chitchat/hotelandvenue:
-  - text: cccccccccccccccccccccccc
+  - text: Thank you! Please click the following link. http://thereps.org/vanue/
   utter_chitchat/contacthost:
-  - text: ddddddddddddddddd
+  - text: Thank you! Please click the following link. mailto:thereps.conference@gmail.com
 actions:
 - action_hello_world
 forms: {}

@@ -92,3 +92,15 @@ nlu:
   examples: |
     - start thereps
     - please start thereps
+- intent: chitchat/callforpaper
+  examples: |
+    - find call for paper
+- intent: chitchat/registerconference
+  examples: |
+    - find Register for THEREPS Conference
+- intent: chitchat/hotelandvenue
+  examples: |
+    - find Hotel/Venue Information
+- intent: chitchat/contacthost
+  examples: |
+    - Contact Conference Host

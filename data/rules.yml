@@ -16,3 +16,6 @@ rules:
   steps:
   - intent: chitchat
   - action: utter_chitchat
+- rule: initial path
+  steps:
+  - action: utter_home_thereps
